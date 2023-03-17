@@ -7,8 +7,8 @@ Kullanıcı girişi
 """)
 
 
-sys_kullanıcı_adi = "aakifkorkmaz"
-sys_parola = "i1.618ssAss"
+sys_kullanıcı_adi = "ppp"
+sys_parola = "ppp"
 
 kullanıcıadı = input("Kullanıcı adını giriniz = ")
 parola = input("Şifreyi giriniz =")
